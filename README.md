@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryan-kamboj
-- 👀 I’m interested in learning verry innitial basics of programing  
+- 👀 I’m interested in learning very innitial basics of programing  
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me aryankambozz@gmail.com
