@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryan-kamboj
-- 👀 I’m interested in learning very innitial basics of programing  
+- 👀 I’m interested in learning MERN stack  
 - 🌱 I’m currently learning Web developement
 - 💞️ I’m decently good in C & C++ 
 - 📫 How to reach me aryankambozz@gmail.com
